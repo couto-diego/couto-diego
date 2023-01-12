@@ -43,30 +43,43 @@
 
 <br><br>
 
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=couto-diego&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=couto-diego&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+</p>
+-->
+
+<br><br>
+
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/couto-diego" target="_blank">
+<a href="https://codepen.io/coutodiego" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-diegocouto-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
-<a href="https://twitter.com/couto-diego" target="_blank">
+<a href="https://twitter.com/couto-diegodev" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-diegocouto-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://linkedin.com/in/couto-diego" target="_blank">
+<a href="https://linkedin.com/in/diego-couto-aa0319260/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-diegocouto-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/maykbrito" target="_blank">
+<a href="https://instagram.com/dc.dev" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-diegocouto-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://youtube.com/maykbrito" target="_blank">
+<a href="https://youtube.com/dc.dev" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-diegocouto-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
 
 <!--
 
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=couto-diegoe&show_reply=off&show_retweet=off" />
+<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=couto-diego&layout=wide&show_reply=off&show_retweet=off" />
 
-<!--
+
 **couto-diego/couto-diego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 
