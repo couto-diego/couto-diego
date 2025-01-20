@@ -1,42 +1,62 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/couto-diego/69a907ca33b9b9d1131fb6c66a0556c5/raw/33a8f6f399626da378f272bb7dead3ff8f551ca1/GistCard.svg"/>
+<img align="right" height="300em" src="https://raw.githubusercontent.com/gist/couto-diego/69a907ca33b9b9d1131fb6c66a0556c5/raw/33a8f6f399626da378f272bb7dead3ff8f551ca1/GistCard.svg"/>
 
-# Olá, eu sou Diego Couto 👋
+# 🚀 Bem-vindo ao Meu Espaço Digital 👋
 
-✨ **Estudante de Ciência de Dados** com foco em Inteligência Artificial, Machine Learning e Deep Learning.
+## 🌟 Sobre Mim
 
----
-
-## 🏢 **Atuação Profissional e Acadêmica**
-- 💻 Em transição para a área de Dados.
-- 📚 Experiência com tecnologias como HTML, CSS, JavaScript, PHP e Python.
-- 🗂️ Conhecimento em bancos de dados relacionais e não relacionais.
+✨ **Diego Couto**, um desenvolvedor apaixonado por **Python**, **Análise de Dados** e **Inteligência Artificial**. Minha missão é transformar dados em insights e construir soluções tecnológicas impactantes.
 
 ---
 
-## 📊 **Estatísticas no GitHub**
-
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=couto-diego&show_icons=true&theme=dracula)
-
----
-
-## 🚀 **Linguagens Mais Usadas**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=couto-diego&layout=compact)
+### 🧩 **Minha Abordagem de Desenvolvimento**
+- 🌐 **User-Centric**: Sempre coloco o usuário no centro das soluções.
+- 📊 **Data-Driven**: Amo explorar dados para fundamentar decisões inteligentes.
+- ⚡ **Eficiente e Escalável**: Me preocupo em entregar projetos que cresçam junto com as demandas.
 
 ---
 
-## 🗂️ **Projetos em Destaque**
+## 🛠️ **Minhas Habilidades**
 
-[![Gerenciador de Assinaturas](https://github-readme-stats.vercel.app/api/pin/?username=couto-diego&repo=gerenciado-assinatura)](https://github.com/couto-diego/gerenciado-assinatura)
-
-[![Agenda](https://github-readme-stats.vercel.app/api/pin/?username=couto-diego&repo=Agenda)](https://github.com/couto-diego/Agenda)
+| Linguagens       | Frameworks       | Análise de Dados       | Ferramentas          |
+|------------------|------------------|------------------------|----------------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white) | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |   | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |   |
 
 ---
 
-## 🌟 **Objetivos de Aprendizado**
+## 🏆 **Projetos Destacados**
 
-- **Inteligência Artificial**: Especializar-se em desenvolvimento de modelos preditivos e análise de dados complexos.
-- **Machine Learning**: Criar soluções para problemas reais utilizando aprendizado supervisionado e não supervisionado.
-- **Deep Learning**: Explorar redes neurais profundas para aplicações avançadas.
+📌 [Gerenciador de Assinaturas](https://github.com/couto-diego/gerenciado-assinatura): Uma aplicação para controle eficiente de assinaturas e pagamentos recorrentes.
 
-Obrigado por visitar meu perfil! 😊
+📌 [Agenda](https://github.com/couto-diego/Agenda): Uma solução prática para gerenciamento de compromissos com foco na experiência do usuário.
+
+---
+
+## 📈 **Estatísticas do GitHub**
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=couto-diego&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=couto-diego&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+---
+
+## 🎯 **Minhas Metas**
+
+- **Explorar IA:** Criar soluções que utilizem aprendizado de máquina para resolver problemas complexos.
+- **Deep Learning:** Aprofundar o estudo em redes neurais para aplicações avançadas.
+- **Automação:** Desenvolver ferramentas para automatizar processos e aumentar a eficiência.
+
+---
+
+## 📫 **Conecte-se Comigo**
+
+📧 **Email:** [dcouto.dev@gmail.com](mailto:dcouto.dev@gmail.com)  
+🔗 **GitHub:** [github.com/couto-diego](https://github.com/couto-diego)  
+🔗 **LinkedIn:** [linkedin.com/in/diegocouto87](https://www.linkedin.com/in/diegocouto87)
+
+---
+
+✨ Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e entrar em contato. 😊
+
