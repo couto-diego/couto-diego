@@ -1,4 +1,4 @@
-<img align="right" height="300em" src="https://raw.githubusercontent.com/gist/couto-diego/69a907ca33b9b9d1131fb6c66a0556c5/raw/33a8f6f399626da378f272bb7dead3ff8f551ca1/GistCard.svg"/>
+
 
 # 🚀 Bem-vindo ao Meu Espaço Digital 👋
 
